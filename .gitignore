@@ -1,6 +1,5 @@
 .DS_Store
 .ftppass
-dist/
 docs/technical/generated/
 node_modules/
 *.sublime-project
