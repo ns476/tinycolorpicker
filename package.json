@@ -1,6 +1,6 @@
 {
   "name": "react-tinycolorpicker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tinycolorpicker react component",
   "main": "dist/index.js",
   "scripts": {
