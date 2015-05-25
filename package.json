@@ -1,6 +1,6 @@
 {
   "name": "react-tinycolorpicker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tinycolorpicker react component",
   "main": "dist/index.js",
   "scripts": {
@@ -20,8 +20,5 @@
     "colorpicker"
   ],
   "author": "Pavlos Polianidis",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ppoliani/tinycolorpicker/issues"
-  }
+  "license": "MIT"
 }
