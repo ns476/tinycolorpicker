@@ -39,6 +39,7 @@
     -webkit-border-radius: 27px;
     -moz-border-radius: 27px;
     border-radius: 27px;
+    border: #FFF 2px solid;
 }
 
 .tinycolorpicker .dropdown {
